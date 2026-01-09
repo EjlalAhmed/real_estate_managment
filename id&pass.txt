@@ -1,6 +1,8 @@
 admin id : admin@londonsquare.com
 admin pass : admin123
 
+Two Laravel and Vite
+php artisan serve and npm rum dev
 
 This is ENV file
 APP_NAME=Laravel
